@@ -1,6 +1,15 @@
 @font-face {
-  font-family: 'MBC1961GulimM';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-01@1.0/MBC1961GulimM.woff2') format('woff2');
-  font-weight: normal;
+  font-family: 'TheJamsil5Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/TheJamsil5Bold.woff2') format('woff2');
+  font-weight: 700;
   font-style: normal;
 }
+
+h1{
+background: white;
+width: 800px;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
